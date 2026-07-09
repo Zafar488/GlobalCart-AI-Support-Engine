@@ -7,7 +7,6 @@ langchain-groq==0.1.2
 langchain-community==0.0.29
 langgraph==0.0.30
 langchain-huggingface
-faiss-cpu==1.8.0 --no-deps   # ya is line ko comment kar do
 scikit-learn
 joblib
 pydantic
