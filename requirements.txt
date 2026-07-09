@@ -10,3 +10,4 @@ langchain-huggingface
 scikit-learn
 joblib
 pydantic
+python-dotenv
